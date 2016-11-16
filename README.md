@@ -1,5 +1,5 @@
 # Zeppelin Notebook
-This repo contains a Zeppelin notebook tutorial on how to use Zeppelin. Let me know if you have any questions or feedback regarding any of the code.
+This repo contains a Zeppelin notebook tutorial that covers the basics to using Zeppelin notebooks. Let me know if you have any questions or feedback regarding any of the code.
 
 To view this code:
 - Click on zeppeling_tutorial.json, copy the URL, and paste it into Zeppelin's import from URL tool
