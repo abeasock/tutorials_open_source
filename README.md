@@ -6,4 +6,4 @@ To view this code:
 - Download zeppeling_tutorial.json and import it in to your Zeppelin notebook
 - For viewing only, click on zeppeling_tutorial.json and copy the URL into https://www.zeppelinhub.com/viewer/ 
 
-**Some visuals may not render the same in the Zeppelinhub Viewer*
+**Some visuals may not render the same in Zeppelinhub Viewer*
