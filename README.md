@@ -4,4 +4,6 @@ This repo contains a Zeppelin notebook tutorial that covers the basics to using 
 To view this code:
 - Click on zeppeling_tutorial.json, copy the URL, and paste it into Zeppelin's import from URL tool
 - Download zeppeling_tutorial.json and import it in to your Zeppelin notebook
-- For viewing only, click on zeppeling_tutorial.json and copy the URL into https://www.zeppelinhub.com/viewer/
+- For viewing only, click on zeppeling_tutorial.json and copy the URL into https://www.zeppelinhub.com/viewer/ 
+
+**Some visuals may not render the same in the Zeppelinhub Viewer*
