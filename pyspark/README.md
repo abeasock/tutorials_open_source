@@ -1,5 +1,5 @@
-# PySpark
-This repo contains various Zeppelin notebooks that serve as PySpark tutorials. Let me know if you have any questions or feedback regarding any of the code.
+# PySpark (v1.6)
+This repo contains a PySpark tutorial created in a Zeppelin Notebook. Let me know if you have any questions or feedback regarding any of the code.
 
 To view this code:
 
